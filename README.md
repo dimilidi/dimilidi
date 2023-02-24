@@ -6,7 +6,7 @@
 
 ### TECH STACK
 
-![html](https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white)]
+![html](https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=HTML&logoColor=orange)]
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
