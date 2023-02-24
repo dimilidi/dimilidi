@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## About Me
+
+I am Lidiya, a Fullstack Developer, pursuing my Bachelors in Computer Science and Information Technology.
+
+2023 I've graduated a MERN-Stack Developer course. 
+
+🌱 I’m currently learning React Native Expo.
+
+## Skills
+
 <!--
 **dimilidi/dimilidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
