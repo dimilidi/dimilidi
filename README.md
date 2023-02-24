@@ -6,7 +6,7 @@
 
 ### TECH STACK
 
-![<html>](https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![html](https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 <!--
 **dimilidi/dimilidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
