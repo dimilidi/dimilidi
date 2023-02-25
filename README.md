@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 
-🌱 I’m currently learning React Native Expo.
+🌱 Curious and eager to learn something new every day.
 
 ### TECH STACK
 
@@ -17,6 +17,8 @@
 <br/>
 ![react](https://img.shields.io/badge/React-43464B?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
+<br>
+![figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=Figma&logoColor=#F24E1E)
 
 <!--
 **dimilidi/dimilidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
