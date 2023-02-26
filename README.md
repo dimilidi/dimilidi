@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 
-🌱 Curious and eager to learn something new every day.
+🌱 Inquisitive and eager to learn something new every day.
 
 ### TECH STACK
 
