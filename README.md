@@ -1,10 +1,10 @@
 ### Hello World 👋
 
-### ABOUT ME
+### About Me
 
 🌱 Inquisitive and eager to learn something new every day.
 
-### TECH STACK
+### Tech Stack
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
