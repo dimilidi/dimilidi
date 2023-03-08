@@ -1,8 +1,8 @@
 ### Hello World 👋
 
-### About Me
+I'm Lidiya Dimitrova passionate Web Developer with experience in developing web applications with JavaScript & React.
 
-I am a Juniour Web Developer with experience in developing web applications with JavaScript & React.
+### About Me
 
 🌱 Eager to create efficient and unique programs that enable people to achieve greater success and satisfaction.
 
