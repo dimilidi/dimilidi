@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I'm Lidiya Dimitrova --> passionate Web Developer with experience in developing web applications with JavaScript & React.
+I'm Lidiya Dimitrova --> passionate Web Developer with experience in developing JavaScript & React web applications.
 
 </br>
 
