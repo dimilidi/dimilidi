@@ -2,7 +2,7 @@
 
 I'm Lidiya Dimitrova --> passionate Web Developer with experience in developing web applications with JavaScript & React.
 
-
+</br>
 
 ### About Me
 
@@ -10,8 +10,7 @@ I'm Lidiya Dimitrova --> passionate Web Developer with experience in developing 
 
 🌱 Inquisitive and ready to learn something new every day.
 
-
-
+</br>
 
 ### Tech Stack
 
