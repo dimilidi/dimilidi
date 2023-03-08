@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am Juniour Web Developer with experience in developing web applications with JavaScript & React.
+I am a Juniour Web Developer with experience in developing web applications with JavaScript & React.
 
 🌱 Eager to create efficient and unique programs that enable people to achieve greater success and satisfaction.
 
