@@ -36,6 +36,7 @@
 <br/>
 ![figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=Figma&logoColor=#F24E1E)
 ![canva](https://img.shields.io/badge/Canva-FFFFFF?style=for-the-badge&logo=Canva&logoColor=#F24E1E)
+<br/>
 
 
 
