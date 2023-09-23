@@ -27,7 +27,7 @@
 ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![mysql](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=MySQL&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+![mysql](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 <br/>
 <br/>
 ![react](https://img.shields.io/badge/React-43464B?style=for-the-badge&logo=React&logoColor=61DAFB)
