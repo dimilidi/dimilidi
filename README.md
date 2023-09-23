@@ -6,12 +6,11 @@
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dimilidi)
 
 
-## About Me
-### 👉 Passionate Web Developer with experience in developing JavaScript & React web applications. 
-### 👉 Eager to create efficient and unique programs that enable people to achieve greater success and satisfaction.
-### 👉 Inquisitive and ready to learn something new every day.
-### 👉 Education: Digital Career Institute of Berlin, Software University of Sofia, Varna Free University of Varna, Konstantin Preslavski University of Shumen
-### 👉 Goal: Contributing to Open Source projects
+ 👉 Passionate Web Developer with experience in developing JavaScript & React web applications. 
+ 👉 Eager to create efficient and unique programs that enable people to achieve greater success and satisfaction.
+ 👉 Inquisitive and ready to learn something new every day.
+ 👉 Education: Digital Career Institute of Berlin, Software University of Sofia, Varna Free University of Varna, Konstantin Preslavski University of Shumen
+ 👉 Goal: Contributing to Open Source projects
 
 
 ## 🚀 Tech Stack
@@ -21,6 +20,7 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 <br/>
+<br/>
 ![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=MongoDB&logoColor=47A248)
@@ -29,6 +29,8 @@
 ![socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
 <br>
 ![figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=Figma&logoColor=#F24E1E)
+![canva](https://img.shields.io/badge/Canva-FFFFFF?style=for-the-badge&logo=Canva&logoColor=#F24E1E)
+
 
 
 ## ⚡ GitHub Stats
