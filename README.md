@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrovalidiya/) 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dimilidi)
 
-
+<br/>
 #### 👉  Passionate Web Developer with experience in developing JavaScript & React web applications. 
 #### 👉  Eager to create efficient and unique programs that enable people to achieve greater success and satisfaction.
 #### 👉  Inquisitive and ready to learn something new every day.
