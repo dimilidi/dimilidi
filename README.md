@@ -6,11 +6,12 @@
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dimilidi)
 
 
-#### 👉 Passionate Web Developer with experience in developing JavaScript & React web applications. 
-#### 👉 Eager to create efficient and unique programs that enable people to achieve greater success and satisfaction.
-#### 👉 Inquisitive and ready to learn something new every day.
-#### 👉 Education: Digital Career Institute of Berlin, Software University of Sofia, Varna Free University of Varna, Konstantin Preslavski University of Shumen
-#### 👉 Goal: Contributing to Open Source projects
+#### 👉  Passionate Web Developer with experience in developing JavaScript & React web applications. 
+#### 👉  Eager to create efficient and unique programs that enable people to achieve greater success and satisfaction.
+#### 👉  Inquisitive and ready to learn something new every day.
+#### 👉  Education: Digital Career Institute of Berlin, Software University of Sofia, Varna Free University of Varna, Konstantin Preslavski University of Shumen
+#### 👉  Goal: Contributing to Open Source projects
+<br/>
 
 
 ## 🚀 Tech Stack
@@ -26,6 +27,7 @@
 ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![mysql](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=MySQL&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 <br/>
 <br/>
 ![react](https://img.shields.io/badge/React-43464B?style=for-the-badge&logo=React&logoColor=61DAFB)
