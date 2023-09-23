@@ -6,11 +6,11 @@
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dimilidi)
 
 <br/>
-#### 👉  Passionate Web Developer with experience in developing JavaScript & React web applications. 
-#### 👉  Eager to create efficient and unique programs that enable people to achieve greater success and satisfaction.
-#### 👉  Inquisitive and ready to learn something new every day.
-#### 👉  Education: Digital Career Institute of Berlin, Software University of Sofia, Varna Free University of Varna, Konstantin Preslavski University of Shumen
-#### 👉  Goal: Contributing to Open Source projects
+ ⚡  Passionate Web Developer with experience in developing JavaScript & React web applications. <br/>
+ ⚡  Eager to create efficient and unique programs that enable people to achieve greater success and satisfaction. <br/>
+ ⚡  Inquisitive and ready to learn something new every day. <br/>
+ ⚡  Education: Digital Career Institute of Berlin, Software University of Sofia, Varna Free University of Varna, Konstantin Preslavski University of Shumen <br/>
+ ⚡  Goal: Contributing to Open Source projects <br/>
 <br/>
 
 
@@ -18,6 +18,7 @@
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=Java&logoColor=007396)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
