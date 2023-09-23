@@ -1,6 +1,6 @@
-### Hello World, 
+## Hello World!
 
-#### I'm Lidiya 👋
+## I'm Lidiya 👋
  -->  passionate Web Developer with experience in developing JavaScript & React web applications. <--
 
 </br>
