@@ -31,6 +31,7 @@
 <br/>
 <br/>
 ![react](https://img.shields.io/badge/React-43464B?style=for-the-badge&logo=React&logoColor=61DAFB)
+![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
 ![socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
 <br>
 <br/>
