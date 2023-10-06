@@ -21,7 +21,6 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 <br/>
 <br/>
 ![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -31,12 +30,19 @@
 <br/>
 <br/>
 ![react](https://img.shields.io/badge/React-43464B?style=for-the-badge&logo=React&logoColor=61DAFB)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://reactnative.dev/)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white)](https://expo.dev/)
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
 ![socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
-<br>
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)](https://redux.js.org/)
+<br/>
 <br/>
 ![figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=Figma&logoColor=#F24E1E)
 ![canva](https://img.shields.io/badge/Canva-FFFFFF?style=for-the-badge&logo=Canva&logoColor=#F24E1E)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 <br/>
 <br/>
 
