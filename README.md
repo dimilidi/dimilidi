@@ -52,12 +52,6 @@
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimilidi&layout=compact&hide_border=true" /> 
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimilidi/dimilidi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dimilidi/dimilidi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/dimilidi/dimilidi/output/github-snake.svg" />
-</picture>
-
 
 
 
