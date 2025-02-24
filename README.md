@@ -1,4 +1,5 @@
-## Hello World! I'm Lidiya 👋
+## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> I'm Lidiya 
+
 ![visitors](https://komarev.com/ghpvc/?username=dimilidi)
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/lidiya.dimitrova.18/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dimitrovalidiya/) 
