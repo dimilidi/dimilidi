@@ -20,7 +20,6 @@
 ---
 
 ## 🎓 **Education**   
-<div align="center">
 <a href="https://softuni.org" target="_blank">
   <img src="https://softuni.bg/content/images/header/white-horizontal-logo-university.svg" alt="Softuni logo" width="100">
 </a>
@@ -40,7 +39,6 @@
 <a href="https://www.shu.bg/en/" target="_blank"> 
   <img src="https://www.shu.bg/wp-content/themes/transportex-pro/images/logo-24.png" width="350">
 </a>
-</div>
 
 
 ---
