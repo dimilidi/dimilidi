@@ -13,7 +13,7 @@
 💡 <span style="font-size: 14px;">**Passionate Web Developer** with experience in building full-stack applications.</span>  
 🚀 <span style="font-size: 14px;">**Eager to create** efficient and unique programs that empower people.</span>  
 🔍 <span style="font-size: 14px;">**Inquisitive & Always Learning** new technologies every day.</span>  
-🎓 <span style="font-size: 14px;">**Education**: Currently pursuing Computer Science Bachelor Degree at Varna Free University, Harvard CS50x, Digital Career Institute of Berlin, Software University of Sofia, Varna Free University of Varna, Konstantin Preslavski University of Shumen.</span>  
+🎓 <span style="font-size: 14px;">**Education**: Currently pursuing Computer Science Bachelor Degree.</span>  
 🌟 <span style="font-size: 14px;">**Goal**: Contributing to **Open Source** projects.</span>
 
 ---
