@@ -16,6 +16,7 @@
 🎓 <span style="font-size: 14px;">**Education**: Currently pursuing Computer Science Bachelor Degree.</span>  
 🌟 <span style="font-size: 14px;">**Goal**: Contributing to **Open Source** projects.</span>
 
+
 ---
 
 ## 🎓 **Education**   
@@ -99,8 +100,8 @@
 ## 📊 **GitHub Stats**
 
 <a href="https://github.com/dimilidi">
-   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimilidi&&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs&theme=radical" /> 
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimilidi&layout=compact&hide_border=true&theme=radical" /> 
+   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dimilidi&&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs&theme=transparent" /> 
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimilidi&layout=compact&hide_border=true&theme=transparent" /> 
 </a>
 
 ---
