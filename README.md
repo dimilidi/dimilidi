@@ -1,11 +1,10 @@
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> I'm Lidiya  
-![visitors](https://komarev.com/ghpvc/?username=dimilidi)  
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrovalidiya/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/dimitrovalidiya/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&logoColor=white)](https://twitter.com/liDiDimi)
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/lidiya.dimitrova.18/)
-[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dimilidi)  
+[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dimilidi)
+![visitors](https://komarev.com/ghpvc/?username=dimilidi)
 
 ---
 
@@ -19,7 +18,8 @@
 
 ---
 
-## 🎓 **Education**   
+## 🎓 **Education**  
+<div align="center">
 <a href="https://softuni.org" target="_blank">
   <img src="https://softuni.bg/content/images/header/white-horizontal-logo-university.svg" alt="Softuni logo" width="100">
 </a>
@@ -39,7 +39,7 @@
 <a href="https://www.shu.bg/en/" target="_blank"> 
   <img src="https://www.shu.bg/wp-content/themes/transportex-pro/images/logo-24.png" width="350">
 </a>
-
+</div>
 
 ---
 
